@@ -1,0 +1,1001 @@
+{
+"id": 19,
+"date": "2023-08-30",
+"category": "hangout",
+"amount": "3784",
+"note": "Inshi-finish"
+}, 
+{
+"id": 20,
+"date": "2023-08-23",
+"category": "grocery",
+"amount": "1061",
+"note": ""
+}, 
+{
+"id": 21,
+"date": "2023-08-26",
+"category": "grocery",
+"amount": "2634",
+"note": ""
+}, 
+{
+"id": 22,
+"date": "2023-08-24",
+"category": "grocery",
+"amount": "946",
+"note": ""
+}, 
+{
+"id": 23,
+"date": "2023-08-23",
+"category": "grocery",
+"amount": "220",
+"note": ""
+}, 
+{
+"id": 24,
+"date": "2023-08-29",
+"category": "grocery",
+"amount": "108",
+"note": ""
+}, 
+{
+"id": 25,
+"date": "2023-08-25",
+"category": "beauty",
+"amount": "1859",
+"note": "pink shampoo"
+}, 
+{
+"id": 26,
+"date": "2023-08-22",
+"category": "grocery",
+"amount": "1438",
+"note": ""
+}, 
+{
+"id": 27,
+"date": "2023-08-22",
+"category": "necessities",
+"amount": "2051",
+"note": ""
+}, 
+{
+"id": 28,
+"date": "2023-08-22",
+"category": "treat",
+"amount": "1400",
+"note": "hongo bakery"
+}, 
+{
+"id": 29,
+"date": "2023-08-29",
+"category": "treat",
+"amount": "420",
+"note": "american spirit"
+}, 
+{
+"id": 30,
+"date": "2023-08-27",
+"category": "beauty",
+"amount": "1211",
+"note": "fino"
+}, 
+{
+"id": 31,
+"date": "2023-08-31",
+"category": "grocery",
+"amount": "1339",
+"note": ""
+}, 
+{
+"id": 32,
+"date": "2023-08-31",
+"category": "hangout",
+"amount": "2400",
+"note": "coffee bus outward"
+}, 
+{
+"id": 33,
+"date": "2023-08-31",
+"category": "hangout",
+"amount": "3800",
+"note": "coffee bus return"
+}, 
+{
+"id": 34,
+"date": "2023-08-28",
+"category": "grocery",
+"amount": "2365",
+"note": ""
+}, 
+{
+"id": 35,
+"date": "2023-08-22",
+"category": "hangout",
+"amount": "2000",
+"note": "B4-M1"
+}, 
+{
+"id": 36,
+"date": "2023-09-01",
+"category": "grocery",
+"amount": "0",
+"note": ""
+}, 
+{
+"id": 37,
+"date": "2023-09-01",
+"category": "treat",
+"amount": "1098",
+"note": "O-sho"
+}, 
+{
+"id": 38,
+"date": "2023-09-01",
+"category": "treat",
+"amount": "1123",
+"note": "coffee maldive"
+}, 
+{
+"id": 39,
+"date": "2023-09-01",
+"category": "treat",
+"amount": "990",
+"note": "B-side label"
+}, 
+{
+"id": 40,
+"date": "2023-09-01",
+"category": "fashion",
+"amount": "2420",
+"note": "Harajuku-cicago rugby shirt"
+}, 
+{
+"id": 41,
+"date": "2023-09-03",
+"category": "hangout",
+"amount": "4110",
+"note": "jukai bus"
+}, 
+{
+"id": 42,
+"date": "2023-09-03",
+"category": "treat",
+"amount": "700",
+"note": "kaldi spice"
+}, 
+{
+"id": 43,
+"date": "2023-09-03",
+"category": "treat",
+"amount": "940",
+"note": "mcdonald"
+}, 
+{
+"id": 44,
+"date": "2023-09-03",
+"category": "necessities",
+"amount": "2833",
+"note": ""
+}, 
+{
+"id": 45,
+"date": "2023-09-04",
+"category": "grocery",
+"amount": "1653",
+"note": ""
+}, 
+{
+"id": 46,
+"date": "2023-09-05",
+"category": "hangout",
+"amount": "16957",
+"note": "coffee camp"
+}, 
+{
+"id": 47,
+"date": "2023-09-08",
+"category": "hangout",
+"amount": "4995",
+"note": "Aokigahara"
+}, 
+{
+"id": 48,
+"date": "2023-09-08",
+"category": "treat",
+"amount": "2292",
+"note": "fragrance, herbal tea"
+}, 
+{
+"id": 49,
+"date": "2023-09-09",
+"category": "hangout",
+"amount": "4112",
+"note": "korean food"
+}, 
+{
+"id": 50,
+"date": "2023-09-07",
+"category": "grocery",
+"amount": "2001",
+"note": ""
+}, 
+{
+"id": 51,
+"date": "2023-09-09",
+"category": "transit",
+"amount": "5000",
+"note": ""
+}, 
+{
+"id": 52,
+"date": "2023-09-09",
+"category": "hangout",
+"amount": "5162",
+"note": "club asia"
+}, 
+{
+"id": 53,
+"date": "2023-08-31",
+"category": "treat",
+"amount": "750",
+"note": "alice adventure"
+}, 
+{
+"id": 54,
+"date": "2023-09-16",
+"category": "necessities",
+"amount": "3020",
+"note": "shampoo"
+}, 
+{
+"id": 55,
+"date": "2023-09-12",
+"category": "necessities",
+"amount": "294",
+"note": "tooth paste"
+}, 
+{
+"id": 56,
+"date": "2023-09-16",
+"category": "grocery",
+"amount": "1733",
+"note": ""
+}, 
+{
+"id": 57,
+"date": "2023-09-11",
+"category": "grocery",
+"amount": "625",
+"note": ""
+}, 
+{
+"id": 58,
+"date": "2023-09-12",
+"category": "grocery",
+"amount": "277",
+"note": ""
+}, 
+{
+"id": 59,
+"date": "2023-09-12",
+"category": "grocery",
+"amount": "1718",
+"note": ""
+}, 
+{
+"id": 60,
+"date": "2023-09-11",
+"category": "grocery",
+"amount": "1137",
+"note": ""
+}, 
+{
+"id": 61,
+"date": "2023-09-14",
+"category": "hangout",
+"amount": "6254",
+"note": "shinohara, tanzawa"
+}, 
+{
+"id": 62,
+"date": "2023-09-12",
+"category": "treat",
+"amount": "1550",
+"note": "yanaka coffee"
+}, 
+{
+"id": 63,
+"date": "2023-09-12",
+"category": "hangout",
+"amount": "3600",
+"note": "niji-sanji escape"
+}, 
+{
+"id": 64,
+"date": "2023-09-21",
+"category": "hangout",
+"amount": "3000",
+"note": "drink"
+}, 
+{
+"id": 65,
+"date": "2023-09-22",
+"category": "grocery",
+"amount": "693",
+"note": ""
+}, 
+{
+"id": 66,
+"date": "2023-09-19",
+"category": "beauty",
+"amount": "657",
+"note": "hair dye black"
+}, 
+{
+"id": 67,
+"date": "2023-09-17",
+"category": "grocery",
+"amount": "3602",
+"note": ""
+}, 
+{
+"id": 68,
+"date": "2023-09-21",
+"category": "hangout",
+"amount": "-1500",
+"note": "shinohara, tanzawa"
+}, 
+{
+"id": 69,
+"date": "2023-09-28",
+"category": "fashion",
+"amount": "3000",
+"note": "ear ring"
+}, 
+{
+"id": 70,
+"date": "2023-09-26",
+"category": "grocery",
+"amount": "1515",
+"note": ""
+}, 
+{
+"id": 71,
+"date": "2023-09-26",
+"category": "necessities",
+"amount": "539",
+"note": "hair pin"
+}, 
+{
+"id": 72,
+"date": "2023-09-25",
+"category": "grocery",
+"amount": "659",
+"note": ""
+}, 
+{
+"id": 73,
+"date": "2023-09-24",
+"category": "grocery",
+"amount": "568",
+"note": ""
+}, 
+{
+"id": 74,
+"date": "2023-09-23",
+"category": "grocery",
+"amount": "1321",
+"note": ""
+}, 
+{
+"id": 75,
+"date": "2023-09-24",
+"category": "hangout",
+"amount": "1532",
+"note": "sushi"
+}, 
+{
+"id": 76,
+"date": "2023-09-29",
+"category": "hangout",
+"amount": "-1165",
+"note": "car share"
+}, 
+{
+"id": 77,
+"date": "2023-09-28",
+"category": "grocery",
+"amount": "360",
+"note": ""
+}, 
+{
+"id": 78,
+"date": "2023-09-30",
+"category": "grocery",
+"amount": "138",
+"note": ""
+}, 
+{
+"id": 79,
+"date": "2023-09-30",
+"category": "treat",
+"amount": "800",
+"note": "coffee"
+}, 
+{
+"id": 80,
+"date": "2023-10-07",
+"category": "treat",
+"amount": "3000",
+"note": "hu"
+}, 
+{
+"id": 81,
+"date": "2023-10-01",
+"category": "income",
+"amount": "-30000",
+"note": "shiokuri"
+}, 
+{
+"id": 82,
+"date": "2023-10-01",
+"category": "income",
+"amount": "-46818",
+"note": "ice"
+}, 
+{
+"id": 83,
+"date": "2023-10-03",
+"category": "beauty",
+"amount": "4950",
+"note": "hair cut"
+}, 
+{
+"id": 84,
+"date": "2023-10-01",
+"category": "hangout",
+"amount": "4119",
+"note": "tsukada farm"
+}, 
+{
+"id": 85,
+"date": "2023-10-03",
+"category": "grocery",
+"amount": "1745",
+"note": ""
+}, 
+{
+"id": 86,
+"date": "2023-10-02",
+"category": "transit",
+"amount": "2540",
+"note": ""
+}, 
+{
+"id": 87,
+"date": "2023-10-08",
+"category": "grocery",
+"amount": "1204",
+"note": ""
+}, 
+{
+"id": 88,
+"date": "2023-10-01",
+"category": "treat",
+"amount": "600",
+"note": "marllboro"
+}, 
+{
+"id": 89,
+"date": "2023-10-07",
+"category": "grocery",
+"amount": "1539",
+"note": ""
+}, 
+{
+"id": 90,
+"date": "2023-10-01",
+"category": "hangout",
+"amount": "679",
+"note": "mister donuts"
+}, 
+{
+"id": 91,
+"date": "2023-10-03",
+"category": "necessities",
+"amount": "437",
+"note": "insence"
+}, 
+{
+"id": 92,
+"date": "2023-10-01",
+"category": "grocery",
+"amount": "1380",
+"note": ""
+}, 
+{
+"id": 93,
+"date": "2023-10-03",
+"category": "hangout",
+"amount": "3613",
+"note": "submission party"
+}, 
+{
+"id": 94,
+"date": "2023-10-11",
+"category": "grocery",
+"amount": "532",
+"note": ""
+}, 
+{
+"id": 95,
+"date": "2023-10-09",
+"category": "grocery",
+"amount": "1293",
+"note": ""
+}, 
+{
+"id": 96,
+"date": "2023-10-12",
+"category": "grocery",
+"amount": "1699",
+"note": ""
+}, 
+{
+"id": 97,
+"date": "2023-10-12",
+"category": "beauty",
+"amount": "1584",
+"note": ""
+}, 
+{
+"id": 98,
+"date": "2023-10-12",
+"category": "hangout",
+"amount": "1500",
+"note": "steak"
+}, 
+{
+"id": 99,
+"date": "2023-10-16",
+"category": "necessities",
+"amount": "2189",
+"note": "umbrella"
+}, 
+{
+"id": 100,
+"date": "2023-10-16",
+"category": "hangout",
+"amount": "2070",
+"note": "monja"
+}, 
+{
+"id": 101,
+"date": "2023-10-16",
+"category": "necessities",
+"amount": "481",
+"note": "masking tape, sewing tool"
+}, 
+{
+"id": 102,
+"date": "2023-10-16",
+"category": "treat",
+"amount": "972",
+"note": "herbal tea"
+}, 
+{
+"id": 103,
+"date": "2023-10-15",
+"category": "transit",
+"amount": "1000",
+"note": ""
+}, 
+{
+"id": 104,
+"date": "2023-10-16",
+"category": "grocery",
+"amount": "3097",
+"note": ""
+}, 
+{
+"id": 105,
+"date": "2023-10-16",
+"category": "hangout",
+"amount": "470",
+"note": "school fes"
+}, 
+{
+"id": 106,
+"date": "2023-10-21",
+"category": "fashion",
+"amount": "3630",
+"note": "shirt, leather jacket"
+}, 
+{
+"id": 107,
+"date": "2023-10-25",
+"category": "hangout",
+"amount": "6150",
+"note": "china custume"
+}, 
+{
+"id": 108,
+"date": "2023-10-25",
+"category": "income",
+"amount": "-30000",
+"note": "next month shiokuri"
+}, 
+{
+"id": 109,
+"date": "2023-10-25",
+"category": "necessities",
+"amount": "6530",
+"note": "cnotact lenses"
+}, 
+{
+"id": 110,
+"date": "2023-10-17",
+"category": "treat",
+"amount": "1900",
+"note": "glitch coffee"
+}, 
+{
+"id": 111,
+"date": "2023-10-19",
+"category": "grocery",
+"amount": "2230",
+"note": ""
+}, 
+{
+"id": 112,
+"date": "2023-10-19",
+"category": "beauty",
+"amount": "603",
+"note": "rossette"
+}, 
+{
+"id": 113,
+"date": "2023-10-21",
+"category": "grocery",
+"amount": "1010",
+"note": ""
+}, 
+{
+"id": 114,
+"date": "2023-10-28",
+"category": "grocery",
+"amount": "429",
+"note": ""
+}, 
+{
+"id": 115,
+"date": "2023-10-24",
+"category": "hangout",
+"amount": "850",
+"note": "halloween coffee"
+}, 
+{
+"id": 116,
+"date": "2023-10-25",
+"category": "transit",
+"amount": "1000",
+"note": ""
+}, 
+{
+"id": 117,
+"date": "2023-10-26",
+"category": "grocery",
+"amount": "2188",
+"note": ""
+}, 
+{
+"id": 118,
+"date": "2023-10-26",
+"category": "hangout",
+"amount": "2980",
+"note": "coffee club"
+}, 
+{
+"id": 119,
+"date": "2023-10-27",
+"category": "grocery",
+"amount": "1788",
+"note": ""
+}, 
+{
+"id": 120,
+"date": "2023-10-31",
+"category": "grocery",
+"amount": "2952",
+"note": ""
+}, 
+{
+"id": 121,
+"date": "2023-10-30",
+"category": "grocery",
+"amount": "1514",
+"note": ""
+}, 
+{
+"id": 122,
+"date": "2023-10-29",
+"category": "grocery",
+"amount": "837",
+"note": ""
+}, 
+{
+"id": 123,
+"date": "2023-10-29",
+"category": "hangout",
+"amount": "840",
+"note": "haloween club"
+}, 
+{
+"id": 124,
+"date": "2023-10-29",
+"category": "necessities",
+"amount": "768",
+"note": "towel"
+}, 
+{
+"id": 125,
+"date": "2023-10-28",
+"category": "transit",
+"amount": "1000",
+"note": ""
+}, 
+{
+"id": 126,
+"date": "2023-11-05",
+"category": "beauty",
+"amount": "6414",
+"note": "hair mask, treatment, soap"
+}, 
+{
+"id": 127,
+"date": "2023-11-02",
+"category": "furniture",
+"amount": "13959",
+"note": "curtain, bed cover"
+}, 
+{
+"id": 128,
+"date": "2023-10-31",
+"category": "necessities",
+"amount": "1430",
+"note": "coffee goods"
+}, 
+{
+"id": 129,
+"date": "2023-11-01",
+"category": "treat",
+"amount": "700",
+"note": "nbagel"
+}, 
+{
+"id": 130,
+"date": "2023-11-02",
+"category": "treat",
+"amount": "1520",
+"note": "lion coffee"
+}, 
+{
+"id": 131,
+"date": "2023-11-01",
+"category": "income",
+"amount": "-53492",
+"note": ""
+}, 
+{
+"id": 132,
+"date": "2023-11-25",
+"category": "treat",
+"amount": "830",
+"note": "bekary"
+}, 
+{
+"id": 133,
+"date": "2023-11-17",
+"category": "income",
+"amount": "-11154",
+"note": "maker faire tokyo"
+}, 
+{
+"id": 134,
+"date": "2023-11-19",
+"category": "fashion",
+"amount": "4290",
+"note": "hareru trench coat"
+}, 
+{
+"id": 135,
+"date": "2023-11-20",
+"category": "transit",
+"amount": "2000",
+"note": ""
+}, 
+{
+"id": 136,
+"date": "2023-11-24",
+"category": "grocery",
+"amount": "15106",
+"note": ""
+}, 
+{
+"id": 137,
+"date": "2023-11-20",
+"category": "hangout",
+"amount": "1479",
+"note": "takunomi"
+}, 
+{
+"id": 138,
+"date": "2023-11-24",
+"category": "hangout",
+"amount": "6550",
+"note": ""
+}, 
+{
+"id": 139,
+"date": "2023-11-13",
+"category": "hangout",
+"amount": "4458",
+"note": "zenki experiment"
+}, 
+{
+"id": 140,
+"date": "2023-11-19",
+"category": "hangout",
+"amount": "-2980",
+"note": "meetup"
+}, 
+{
+"id": 141,
+"date": "2023-11-27",
+"category": "transit",
+"amount": "1000",
+"note": ""
+}, 
+{
+"id": 142,
+"date": "2023-11-30",
+"category": "grocery",
+"amount": "1991",
+"note": ""
+}, 
+{
+"id": 143,
+"date": "2023-11-26",
+"category": "grocery",
+"amount": "147",
+"note": ""
+}, 
+{
+"id": 144,
+"date": "2023-11-25",
+"category": "necessities",
+"amount": "217",
+"note": ""
+}, 
+{
+"id": 145,
+"date": "2023-11-27",
+"category": "grocery",
+"amount": "2272",
+"note": ""
+}, 
+{
+"id": 146,
+"date": "2023-11-26",
+"category": "grocery",
+"amount": "491",
+"note": ""
+}, 
+{
+"id": 147,
+"date": "2023-12-01",
+"category": "income",
+"amount": "-30000",
+"note": ""
+}, 
+{
+"id": 148,
+"date": "2023-12-01",
+"category": "income",
+"amount": "-59291",
+"note": "ice"
+}, 
+{
+"id": 149,
+"date": "2023-12-01",
+"category": "beauty",
+"amount": "4950",
+"note": ""
+}, 
+{
+"id": 150,
+"date": "2023-12-01",
+"category": "grocery",
+"amount": "3309",
+"note": ""
+}, 
+{
+"id": 151,
+"date": "2023-12-01",
+"category": "fashion",
+"amount": "13970",
+"note": "focus, west-coast"
+}, 
+{
+"id": 152,
+"date": "2023-12-01",
+"category": "transit",
+"amount": "5000",
+"note": ""
+}, 
+{
+"id": 153,
+"date": "2023-12-01",
+"category": "hangout",
+"amount": "2532",
+"note": "coffee meetup"
+}, 
+{
+"id": 154,
+"date": "2023-12-11",
+"category": "grocery",
+"amount": "2191",
+"note": ""
+}, 
+{
+"id": 155,
+"date": "2023-12-08",
+"category": "necessityies",
+"amount": "110",
+"note": "temperature measure"
+}, 
+{
+"id": 156,
+"date": "2023-12-08",
+"category": "grocery",
+"amount": "1116",
+"note": ""
+}, 
+{
+"id": 157,
+"date": "2023-12-15",
+"category": "necessityies",
+"amount": "1800",
+"note": "clothing clenser"
+}, 
+{
+"id": 158,
+"date": "2023-12-14",
+"category": "grocery",
+"amount": "949",
+"note": ""
+}, 
+{
+"id": 159,
+"date": "2023-12-15",
+"category": "hangout",
+"amount": "2000",
+"note": "acuili"
+}, 
+{
+"id": 160,
+"date": "2023-12-12",
+"category": "hangout",
+"amount": "4211",
+"note": "coffee end year"
+}, 
+{
+"id": 161,
+"date": "2023-12-10",
+"category": "hangout",
+"amount": "6330",
+"note": ""
+}, 
