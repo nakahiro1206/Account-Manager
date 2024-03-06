@@ -22,7 +22,8 @@ release/app/dist
 release/build
 .erb/dll
 
-.misc/
+misc
+
 npm-debug.log.*
 *.css.d.ts
 *.sass.d.ts
