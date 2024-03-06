@@ -25,8 +25,8 @@ export const SubmitButton = memo((props:{initializeInput:Function, addRecord:Fun
 })
 
 
-export const ResumeButton = memo((props:{initializeInput:Function}) => {
-    const {initializeInput} = props;
+export const ResumeButton = memo((props:{initializeInput:Function, isEdited:boolean}) => {
+    const {initializeInput, isEdited} = props;
     return (
         <Button 
             onClick={()=>{
@@ -34,6 +34,7 @@ export const ResumeButton = memo((props:{initializeInput:Function}) => {
             }} 
             variant="contained" 
             color="primary"
+            disabled={!isEdited}
         >
             Resume
         </Button>

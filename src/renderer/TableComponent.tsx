@@ -4,6 +4,7 @@ import Tooltip from '@mui/material/Tooltip';
 import DeleteIcon from '@mui/icons-material/Delete';
 import IconButton from '@mui/material/IconButton';
 import EditIcon from '@mui/icons-material/Edit';
+import { Padding } from '@mui/icons-material';
 
 
 export const TableComponent = memo((props: {date: Date, recordList: Array<record>, removeRecord:Function, setInput:Function, initializeInput:Function})=>{
@@ -25,12 +26,12 @@ export const TableComponent = memo((props: {date: Date, recordList: Array<record
             // return <RecordComponent key={record.id} record={record} />;
             return (
               <tr key={record.id}>
-                <td width='10%'>{String(record.date).slice(-2)}</td>
+                <td width='15%'>{String(record.date).slice(-2)}</td>
                 <td width='20%'>{record.category}</td>
-                <td width='15%' align="right">{record.amount}</td>
+                <td style={{paddingRight:'5%'}} width='15%' align="right">{record.amount}</td>
                 <td width='30%'>{record.note}</td>
-                <td width='10%'>{record.balance}</td>
-                <td width='15%'>
+                <td width='15%'>{record.balance}</td>
+                <td width='5%'>
                   <Tooltip
                     placement="right"
                     title={

@@ -136,7 +136,7 @@ export const HomeScreen = (props: {loadCategory:Function, loadRecordList:Functio
         <div className="input-field">
           <InputNote note = {input.note} setInputNote = {setInputNote} />
           <SubmitButton initializeInput={initializeInput} addRecord={addRecord} updateRecord={updateRecord} enabled={submitButtonEnabled} isEdited={isEditedRecord}/>
-          <ResumeButton initializeInput={initializeInput}/>
+          <ResumeButton initializeInput={initializeInput} isEdited={isEditedRecord}/>
         </div>
 
         <div className='scroll-container'>
